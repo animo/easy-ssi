@@ -13,7 +13,7 @@ eSSIF-EXTEND-->
 
 The Extensible AFJ Project aims to increase self-sovereign identity interoperability and adoption. We want to make incorporating self-sovereign identity solutions into any kind op application as easy as possible by creating an ecosystem of plugins, presets and features using [Hyperledger Aries Framework Javascript](https://github.com/hyperledger/aries-framework-javascript). Allowing **every** developer to integrate ssi into their project without hassle.
 
-Components are proposed and worked on by the community. Currently we are working on [plugins](./plugins) and [presets](./presets), to get involved or make a proposal please read [How to Contribute](./how-to-contribute.md).
+Components are proposed and worked on by the community. Currently we are working on [plugins](./plugins) and [presets](./presets). To get involved or make a proposal please read [How to Contribute](./how-to-contribute.md).
 
 ## Lifecycle
 
@@ -21,7 +21,7 @@ All proposals go through a small lifecycle where they move through set stages (_
 
 ## Roadmap
 
-The [name] project is working towards getting the first five proposals to the accepted stage by 02/2021.
+The extensible AFJ project is working towards getting the first five proposals to the accepted stage by 02/2021.
 
 ### General
 
@@ -31,7 +31,7 @@ The [name] project is working towards getting the first five proposals to the ac
 
 ### Plugins
 
-Plugins facilitate easy integration with existing initiatives and technologies.
+Plugins facilitate easy integration with initiatives and/or technologies.
 
 #### Implemented
 
