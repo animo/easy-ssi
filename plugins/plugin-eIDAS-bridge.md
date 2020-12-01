@@ -16,7 +16,7 @@ _Describe why this proposal specifically is important to get implemented, what a
 
 Why eIDAS: Adding legal value to verifiable credentials [see specs dock]. Why this plugin: Ease of use, offering the choice.
 
-## Related projects
+## Related projects / technologies
 
 _Describe (with link) the projects this plugin connects, is dependent on or is related to in other ways that might be relevant._
 
