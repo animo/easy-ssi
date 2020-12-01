@@ -9,7 +9,9 @@ JSSSI (JavaScriptSSI)
 JSSI
 eSSIF-EXTEND-->
 
-The SSI 4 Dummies project aims to increase self-sovereign identity interoperability and adoption. We want to make incorporating self-sovereign identity solutions into any kind op application as easy as possible by creating an ecosystem of plugins, presets and features using [Hyperledger Aries Framework Javascript](https://github.com/hyperledger/aries-framework-javascript). Allowing **every** developer to integrate ssi into their project.
+# About
+
+The Extensible AFJ Project aims to increase self-sovereign identity interoperability and adoption. We want to make incorporating self-sovereign identity solutions into any kind op application as easy as possible by creating an ecosystem of plugins, presets and features using [Hyperledger Aries Framework Javascript](https://github.com/hyperledger/aries-framework-javascript). Allowing **every** developer to integrate ssi into their project without hassle.
 
 Components are proposed and worked on by the community. Currently we are working on [plugins](./plugins) and [presets](./presets), to get involved or make a proposal please read [How to Contribute](./how-to-contribute.md).
 
@@ -45,7 +47,7 @@ Plugins facilitate easy integration with existing initiatives and technologies.
 
 #### Proposed
 
-- []()
+- [eIDAS Bridge Plugin](./plugins/plugin-eIDAS-bridge.md)
 - []()
 
 ### Presets
