@@ -15,7 +15,7 @@ The Extensible AFJ Project aims to make the setup of self-sovereign identity sol
 
 We do this by creating an ecosystem of plugins, presets and features using [Hyperledger Aries Framework Javascript](https://github.com/hyperledger/aries-framework-javascript). In order to increase the adoption of self-sovereign identity we are making it easy for developers to use existing technologies and connect to ssi projects already out there. Allowing _every_ developer to integrate ssi into their project without hassle.
 
-Components are proposed and worked on by the community. Currently we are working on [plugins](./plugins) and [presets](./presets). To get involved or make a proposal please read [How to Contribute](./how-to-contribute.md).
+Components are proposed and worked on by the community. Currently we are working on [plugins](./plugins/README.md) and [presets](./presets/README.md). To get involved or make a proposal please read [How to Contribute](./how-to-contribute.md).
 
 ## Lifecycle
 
