@@ -1,9 +1,10 @@
-# Plugin - <Plugin Name>
+# Plugin - NFC
 
 - Authors: <Name>, <Email (optional)>
 - Status: Proposed
 - Submitted: <Date of PR>
 - Estimated complexity: <Easy | Medium | Hard>
+- Repo:
 
 ## Description
 

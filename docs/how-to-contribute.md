@@ -1,4 +1,4 @@
-# How to contribute
+# How to Contribute
 
 The plugins and presets are determined, accepted and worked on by the community. Anyone interested in making self-sovereign identity easy is welcome to join, get in touch with us or submit a proposal by following the instructions below.
 
