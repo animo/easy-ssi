@@ -14,9 +14,9 @@ _Please explain your plugin (what it does) in a single paragraph. Keep this desc
 
 _Describe why this proposal specifically is important to get implemented, what are the benefits it offers, why does it need to exist._
 
-## Related projects
+## Related projects / technologies
 
-_Describe (with link) the projects this plugin connects, is dependent on or is related to in other ways that might be relevant._
+_Describe (with link) the projects or technologies this plugin connects, is dependent on or is related to in other ways that might be relevant._
 
 ## Weaknesses
 
