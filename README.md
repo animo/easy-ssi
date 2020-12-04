@@ -54,7 +54,7 @@ Current relevant project questions:
 
 ### Pre-proposed
 
-The project started internally and grew to a public space. Beneath is the current list of 'pre-proposed' ideas we'd like to work out. 
+The project started internally and grew to a public space. Beneath is the current list of 'pre-proposed' ideas we'd like to iterate on to create well thought out proposals. 
 
 Transport plugins
 - HTTP
@@ -62,7 +62,7 @@ Transport plugins
 - Bluetooth
 - NFC
 
-Protocol as plugins
+Protocol-as-plugin
 - Issue credential 2.0
 - Present proof 2.0
 - Mediator coordination 1.0
@@ -88,6 +88,7 @@ Other plugins
 
 Presets
 - Mobile agent preset
+- Organisational agent preset
 - Developer presets
 
 Also we'd like to explore the option to add example projects based on a specific use case. 
