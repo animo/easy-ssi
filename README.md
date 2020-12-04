@@ -21,6 +21,8 @@ Components are proposed and worked on by the community. Currently we are working
 
 All proposals go through a small lifecycle where they move through set stages (_proposed_, _accepted_, _work in progress_ and _implemented_). Once a proposal has been made (according to the [guidelines](how-to-contribute.md)), it will be discussed within the community and moved along the lifecycle stages.
 
+A quick introduction to the lifecycle. A _proposed_ concept is an idea that a person or organisation is excited by, there has been some thought put into motivation, strenghts and weaknesses, as well as how to technically implement (see the plugin template for details). Once proposed, the plugin is discussed by the community, there can be several iterations on these conversations. If the benefits are clear the proposal is _accepted_. This means there is consensus on the quality of the idea as well as intention to work on the concept. Once there are resources to start development, the concepts becomes a _work in progress_ until it is _implemented_.
+
 ### Plugins
 
 Plugins facilitate easy integration with existing initiatives and technologies. To get more information or see the state of current plugins, visit [plugins](plugins/README.md).
