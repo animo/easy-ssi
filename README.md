@@ -39,8 +39,8 @@ Short term goals:
 - Iterate on pre-proposed list
 
 Long term goals:
-- Aries interop profile 2.0
 - AFJ usable in React Native
+- Aries interop profile 2.0
 - Future proof design (beyond Indy)
 
 Current relevant project questions:
@@ -90,7 +90,7 @@ Presets
 - Mobile agent preset
 - Developer presets
 
-Also: example projects
+Also we'd like to explore the option to add example projects based on a specific use case. 
 
 
 ## Contribute
