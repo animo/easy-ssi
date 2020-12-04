@@ -34,6 +34,10 @@ _Describe aspects that are especially strong, unique or important._
 
 _Get as technical and specific as you'd like on how the preset would function._
 
+## Unresolved questions
+
+_A list of questions still to be resolved/researched._
+
 ## Additional information
 
 _Add any specifics here that serve to clarify the concept. Eg. feature list, specs & designs, previous work done, future goals and extentions etc._

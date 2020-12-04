@@ -41,6 +41,10 @@ _Get as technical and specific as you'd like on how the plugin would function._
 
 The proposed plugin would wrap around the eIDAS bridge and integrate 'crossing' the bridge into AFJ Issue Credential and AFJ Present Proof.
 
+## Unresolved questions
+
+_A list of questions still to be resolved/researched._
+
 ## Additional information
 
 _Add any specifics here that serve to clarify the concept. Eg. feature list, specs & designs, previous work done, future goals and extentions etc._

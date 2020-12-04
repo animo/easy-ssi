@@ -31,13 +31,67 @@ Presets allow developers to easily setup a type of agent/service with default va
 
 ## Roadmap
 
-The Extensible AFJ Project is currently working towards applying for [eSSIF Lab Funding](https://essif-lab-infrastructure-oriented.fundingbox.com/) on 04-01-2021. For this deadline the aim is to have plugins in _proposed_, _accepted_ and _work in progress_ stages. And to have preset(s) in the _proposed_ stage.
+The Extensible AFJ Project is currently working towards applying for [eSSIF Lab Funding](https://essif-lab-infrastructure-oriented.fundingbox.com/) on 04-01-2021. 
+
+Short term goals:
+- PoC usability in React Native
+- Worked out 2 presets (organisational agent and mobile hoder agent)
+- Iterate on pre-proposed list
+
+Long term goals:
+- Aries interop profile 2.0
+- AFJ usable in React Native
+- Future proof design (beyond Indy)
+
+Current relevant project questions:
+- How will the API look and function?
 
 ### Timeline
 
 - 11/2020: Move project to publicly available repo.
 - 11/2020: Work out initial list of proposals.
 - 11/2020: Setup scheduled community call (Friday 13:30 CET).
+
+### Pre-proposed
+
+The project started internally and grew to a public space. Beneath is the current list of 'pre-proposed' ideas we'd like to work out. 
+
+Transport plugins
+- HTTP
+- Websocket
+- Bluetooth
+- NFC
+
+Protocol as plugins
+- Issue credential 2.0
+- Present proof 2.0
+- Mediator coordination 1.0
+- Pickup 1.0
+- DID exchange 1.0
+
+Decorator plugins
+- Attachement
+- Thread
+- Transport
+
+'Outside world' plugins
+- eIDAS Bridge
+- SSI Single sign on
+- Wordpress
+- Identity HUb
+- Universal DID resolver
+
+Other plugins
+- Acknowledgement
+- Problem report
+- REST API extenstions
+
+Presets
+- Mobile agent preset
+- Developer presets
+
+Also: example projects
+
 
 ## Contribute
 
