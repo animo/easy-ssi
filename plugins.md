@@ -15,3 +15,8 @@ The [plugin template](./plugin-template.md) can be used for proposing new plugin
 ### Accepted
 
 ### Proposed
+* [NFC Transport](plugins/plugin-NFC-transport.md)
+* [eIDAS Bridge](plugins/plugin-eIDAS-bridge.md)
+
+
+>(This file is machine-generated; see [code/generate_index.py](code/generate_index.py).)

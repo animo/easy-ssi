@@ -15,3 +15,6 @@ The [preset template](./preset-template.md) can be used for proposing new preset
 ### Accepted
 
 ### Proposed
+
+
+>(This file is machine-generated; see [code/generate_index.py](code/generate_index.py).)
