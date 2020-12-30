@@ -1,11 +1,15 @@
 <!-- Names:
+EXTEND
+PlugIn
+EASY-SSI
+SIMPLE-SSI
 afj-plugin-project
 AFJ-EXTEND
 ssi-extended
 ssi-for-dummies
 eSSIF-EASY
-SIMPLE-SSI
-JSSSI (JavaScriptSSI)
+JeSSIF (JavaScriptSSI)
+AFJeSSIF
 JSSI
 eSSIF-EXTEND-->
 
