@@ -1,21 +1,6 @@
-<!-- Names:
-EXTEND
-PlugIn
-EASY-SSI
-SIMPLE-SSI
-afj-plugin-project
-AFJ-EXTEND
-ssi-extended
-ssi-for-dummies
-eSSIF-EASY
-JeSSIF (JavaScriptSSI)
-AFJeSSIF
-JSSI
-eSSIF-EXTEND-->
-
 # About
 
-The Extensible AFJ Project aims to make the setup of self-sovereign identity solutions and the integration of self-sovereign identity functionality into any project _as easy as possible_.
+The Easy SSI project aims to make the setup of self-sovereign identity solutions and the integration of self-sovereign identity functionality into any project _as easy as possible_.
 
 We do this by creating an ecosystem of plugins, presets and features using [Hyperledger Aries Framework Javascript](https://github.com/hyperledger/aries-framework-javascript). In order to increase the adoption of self-sovereign identity we are making it easy for developers to use existing technologies and connect to ssi projects already out there. Allowing _every_ developer to integrate ssi into their project without hassle.
 
@@ -37,7 +22,7 @@ Presets allow developers to easily setup a type of agent/service with default va
 
 ## Roadmap
 
-The Extensible AFJ Project is currently working towards applying for [eSSIF Lab Funding](https://essif-lab-infrastructure-oriented.fundingbox.com/) on 04-01-2021. 
+The Easy SSI project is currently working towards applying for [eSSIF Lab Funding](https://essif-lab-infrastructure-oriented.fundingbox.com/) on 04-01-2021. 
 
 Short term goals:
 - PoC usability in React Native

@@ -36,4 +36,4 @@ _A list of questions still to be resolved/researched._
 
 ## Additional information
 
-_Add any specifics here that serve to clarify the concept. Eg. feature list, specs & designs, previous work done, future goals and extentions etc._
+_Add any specifics here that serve to clarify the concept. Eg. feature list, specs & designs, previous work done, future goals and extensions etc._

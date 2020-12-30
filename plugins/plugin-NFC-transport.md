@@ -1,4 +1,4 @@
-# Plugin - NFC
+# Plugin - NFC Transport
 
 - Authors: <Name>, <Email (optional)>
 - Status: Proposed
