@@ -11,7 +11,7 @@ To get in touch about an idea for a proposal or anything concerning the project 
 To submit your own proposal follow these steps.
 
 - Fork the [name] repo
-- Copy either `plugin-template.md` or `preset-template.md` into the appropriate plugin or preset folder.
+- Copy either [`plugin-template.md`](./plugin-template.md) or [`preset-template.md`](./preset-template.md) into the appropriate plugin or preset folder.
 - Fill out the template with care. The more thought out and detailed the proposal is, the more substantial the discussion by the community can be and the quicker it can move to be accepted. Provide goals, motivation and preferably some technical design. Think about how your proposal will contribute to make ssi easy to integrate
 - Rename template file to a descriptive name that includes the purpose or functionality along the lines of <descriptive name>-<plugin|preset>.md.
 - Submit pull request.
