@@ -1,6 +1,6 @@
 # Demos
 
-A collection of current demo's for the Easy-SSI project. Demo's should show real-world application use of Aries Framework JavaScript.
+A collection of current demo's for the Easy-SSI project. Demo's should show real-world application use of Aries Framework JavaScript and the potential that plugins/presets can offer.
 
 ## [Chat application](https://www.youtube.com/watch?v=wW4HSZZ2kSk)
 
