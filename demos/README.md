@@ -2,7 +2,7 @@
 
 ## [Chat application](https://www.youtube.com/watch?v=wW4HSZZ2kSk)
 
-This is a simple messaging app that allows to make DIDComm connections and send end-to-end encrypted messages via mediator service. Although, it’s not about the credential exchange, it’s still the foundation for other SSI building blocks. The whole solution actually consists of three standalone apps all of them built with JavaScript and using the same Aries JS framework package:
+[This](https://www.youtube.com/watch?v=wW4HSZZ2kSk) is a simple messaging app that allows to make DIDComm connections and send end-to-end encrypted messages via mediator service. Although, it’s not about the credential exchange, it’s still the foundation for other SSI building blocks. The whole solution actually consists of three standalone apps all of them built with JavaScript and using the same Aries JS framework package:
 
 - Desktop app built with React and Electron
 - Mobile iOS app built with React Native
