@@ -35,6 +35,9 @@ The Easy SSI project is currently working towards applying for [eSSIF Lab Fundin
 - [x] Demo mobile holder agent
 - [ ] Aries interop profile 2.0
 - [ ] Future proof design (beyond Indy)
+- [ ] Refactor AFJ
+- [ ] Mobile Agent Preset
+- [ ] Implement plugins
 
 ### Pre-proposed
 
