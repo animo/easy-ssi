@@ -4,7 +4,7 @@ The plugins and presets are determined, accepted and worked on by the community.
 
 ## Get in touch
 
-To get in touch about an idea for a proposal or anything concerning the project you can join our weekly call every friday at 13:30 CET at [https://meet.google.com/iba-jrfj-sjv] or reach out to ana@animo.id. We're happy to discuss any thoughts you might have!
+To get in touch about an idea for a proposal or anything concerning the project you can create an issue or reach out to ana@animo.id. We're happy to discuss any thoughts you might have!
 
 ## Submit a proposal
 
