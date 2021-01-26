@@ -6,21 +6,28 @@ We do this by creating an ecosystem of plugins and presets using [Hyperledger Ar
 
 Components are proposed and worked on by the community. Currently we are working on both [plugins](./plugins/README.md) and [presets](./presets/README.md). To get involved or make a proposal please read [How to Contribute](./how-to-contribute.md).
 
-## Lifecycle
-
-All proposals go through a small lifecycle where they move through set stages (_proposed_, _accepted_, _work in progress_ and _implemented_). Once a proposal has been made (according to the [guidelines](how-to-contribute.md)), it will be discussed within the community and moved along the lifecycle stages.
+ 
 
 ### Plugins
 
-Plugins facilitate easy integration with existing initiatives and technologies. To get more information or see the state of current plugins, visit [plugins](plugins/README.md).
+During the Easy SSI project the core of [Hyperledger Aries Framework Javascript](https://github.com/hyperledger/aries-framework-javascript) will be extended with plugins to add specific functionality. Plugins can be connected and/or interchanged while different types of plugins can add different types of functionality. The state of specific plugins as well as the discussion surrounding them is documented in the [plugins](plugins/README.md) folder.
+
+![Plugins vs. AFJ core](assets/plugins.png)
+
+Plugins are additions to the AFJ core framework that implement specific functionality.
 
 ### Presets
 
-Presets allow developers to easily setup a type of agent/service with default values to keep or customise. To get more information or see the state of curent presets, visit [presets](presets/README.md).
+Presets allow developers to easily setup a type of agent/service with default values to keep or customise. A preset is a configuration of the core framwork with a choice of plugins that suit the use case already enabled. Presets can be used out of the box, or function as a starting points for developers. The state of specific presets as well as the discussion surrounding them is documented in the [presets](presets/README.md) folder.
+
+
+
+![Preset](assets/presets.png)
+A preset is a configuration of the framework with preselected plugins.
 
 ## Roadmap
 
-The Easy SSI project is currently working towards applying for [eSSIF Lab Funding](https://essif-lab-infrastructure-oriented.fundingbox.com/) on 04-01-2021. 
+The Easy SSI project is currently working towards a refactor of AFJ and creating a priority order for implementing the first presets and plugins. 
 
 - [x] Move project to public repo
 - [x] Schedule community call
@@ -37,7 +44,7 @@ The Easy SSI project is currently working towards applying for [eSSIF Lab Fundin
 - [ ] Future proof design (beyond Indy)
 - [ ] Refactor AFJ
 - [ ] Mobile Agent Preset
-- [ ] Implement plugins
+- [ ] Implement first plugins
 
 ### Pre-proposed
 
@@ -61,7 +68,7 @@ Decorator plugins
 - Thread
 - Transport
 
-'Outside world' plugins
+General plugins
 - eIDAS Bridge
 - SSI Single sign on
 - Wordpress
